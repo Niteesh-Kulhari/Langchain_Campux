@@ -27,3 +27,7 @@ scikit-learn
 
 #Streamlit
 streamlit
+
+#pydantic
+pydantic
+email-validator
