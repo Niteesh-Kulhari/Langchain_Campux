@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+langchain-classic
 
 # OpenAI Integration
 langchain-openai
@@ -31,3 +32,7 @@ streamlit
 #pydantic
 pydantic
 email-validator
+
+torch
+
+grandalf

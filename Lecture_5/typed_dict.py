@@ -12,6 +12,7 @@ class Review(TypedDict):
     sentiment: Annotated[str, "Rturn sentiment of the review either negative, positive or neutral"]
     pros: Annotated[Optional[list[str]], "Write down all the pros in a list"]
     cons: Annotated[Optional[list[str]], "Write down all the cons in a list"]
+    name: Annotated[Optional[str], "Write the name of the reviewer"]
 
 
 
