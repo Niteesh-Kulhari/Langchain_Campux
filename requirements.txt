@@ -36,3 +36,11 @@ email-validator
 torch
 
 grandalf
+
+chromadb
+openai
+tiktoken
+pypdf
+langchain_openai
+langchain_community
+langchain_chroma
