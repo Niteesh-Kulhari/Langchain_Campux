@@ -44,3 +44,7 @@ pypdf
 langchain_openai
 langchain_community
 langchain_chroma
+
+faiss-cpu
+wikipedia
+requests
