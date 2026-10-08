@@ -52,6 +52,3 @@ print(result)
 # print(result.content)
 # final = parser.parse(result.content)
 # print(final)
-
-
-
